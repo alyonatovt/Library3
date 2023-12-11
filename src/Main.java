@@ -11,5 +11,18 @@ public class Main {
      Student student1 = new Student("Alyona",18,"Tovt","KN-23");
      Student student2 = new Student("Vanessa",18,"Yezerska","KN-23");
      Student student3 = new Student("Olesia",18,"Myskiv","KN-23");
+
+//Person person = new Person("Alyona",18);
+//person.displayInfo();
+//
+//Author author1 = new Author("Dan Brown",58,8);
+//        author1.displayInfo();
+//
+//Student student1 = new Student("Vanessa",18,"Yezerska","KN-23");
+//student1.displayInfo();
+        
+        author1.displayInfo();
+        book1.displayInfo();
+        student1.displayInfo();
     }
 }
